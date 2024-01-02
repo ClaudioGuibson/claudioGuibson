@@ -3,6 +3,6 @@
  ##
 
           
-- 🔭 Trabalho com front-end
+- 🔭 Em busca da minha primeira vaga, front-end
 - 🌱 Estudando javascript
 - 📪 Contate-me no email: claudioguibson07@gmail.com
